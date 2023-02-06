@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@400;500;600&family=Poppins:wght@400;500;600&family=Russo+One&family=Tangerine&display=swap');
+
+body {
+    background-color: #F8F8F8;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#container {
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 72px;
+    color: #222222;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    color: #444444;
+}
+
+.emotion1 {
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+}
+
+.emotion2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.emotion3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.emotion4 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.4em;
+}
+
+.emotion5 {
+    font-family: 'Tangerine', serif;
+    font-size: 1.6em;
+}
